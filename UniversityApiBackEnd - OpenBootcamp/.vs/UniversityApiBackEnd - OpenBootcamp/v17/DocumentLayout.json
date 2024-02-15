@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68AB153B-B126-452C-BE18-393068089886}|UniversityApiBackEnd\\UniversityApiBackEnd.csproj|c:\\users\\user\\source\\repos\\universityapibackend - openbootcamp\\universityapibackend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68AB153B-B126-452C-BE18-393068089886}|UniversityApiBackEnd\\UniversityApiBackEnd.csproj|solutionrelative:universityapibackend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\Migrations\\20240214204625_Create Users Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniversityApiBackEnd\\Migrations\\20240214204625_Create Users Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AB153B-B126-452C-BE18-393068089886}|UniversityApiBackEnd\\UniversityApiBackEnd.csproj|c:\\users\\user\\source\\repos\\universityapibackend - openbootcamp\\universityapibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68AB153B-B126-452C-BE18-393068089886}|UniversityApiBackEnd\\UniversityApiBackEnd.csproj|solutionrelative:universityapibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AB153B-B126-452C-BE18-393068089886}|UniversityApiBackEnd\\UniversityApiBackEnd.csproj|c:\\users\\user\\source\\repos\\universityapibackend - openbootcamp\\universityapibackend\\dataaccess\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68AB153B-B126-452C-BE18-393068089886}|UniversityApiBackEnd\\UniversityApiBackEnd.csproj|solutionrelative:universityapibackend\\dataaccess\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AB153B-B126-452C-BE18-393068089886}|UniversityApiBackEnd\\UniversityApiBackEnd.csproj|c:\\users\\user\\source\\repos\\universityapibackend - openbootcamp\\universityapibackend\\models\\datamodels\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68AB153B-B126-452C-BE18-393068089886}|UniversityApiBackEnd\\UniversityApiBackEnd.csproj|solutionrelative:universityapibackend\\models\\datamodels\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AB153B-B126-452C-BE18-393068089886}|UniversityApiBackEnd\\UniversityApiBackEnd.csproj|c:\\users\\user\\source\\repos\\universityapibackend - openbootcamp\\universityapibackend\\models\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68AB153B-B126-452C-BE18-393068089886}|UniversityApiBackEnd\\UniversityApiBackEnd.csproj|solutionrelative:universityapibackend\\models\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AB153B-B126-452C-BE18-393068089886}|UniversityApiBackEnd\\UniversityApiBackEnd.csproj|c:\\users\\user\\source\\repos\\universityapibackend - openbootcamp\\universityapibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68AB153B-B126-452C-BE18-393068089886}|UniversityApiBackEnd\\UniversityApiBackEnd.csproj|solutionrelative:universityapibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackEnd\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UniversityApiBackEnd\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T21:47:40.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\Program.cs",
+              "RelativeToolTip": "UniversityApiBackEnd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T17:38:43.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversityDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\DataAccess\\UniversityDBContext.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackEnd\\DataAccess\\UniversityDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\DataAccess\\UniversityDBContext.cs",
+              "RelativeToolTip": "UniversityApiBackEnd\\DataAccess\\UniversityDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T17:42:12.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\Models\\DataModels\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackEnd\\Models\\DataModels\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\Models\\DataModels\\BaseEntity.cs",
+              "RelativeToolTip": "UniversityApiBackEnd\\Models\\DataModels\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T17:42:55.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\Models\\DataModels\\User.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackEnd\\Models\\DataModels\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\Models\\DataModels\\User.cs",
+              "RelativeToolTip": "UniversityApiBackEnd\\Models\\DataModels\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T17:43:21.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "UniversityApiBackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\appsettings.json",
+              "RelativeToolTip": "UniversityApiBackEnd\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAkAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-14T18:06:37.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240214204625_Create Users Table.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\Migrations\\20240214204625_Create Users Table.cs",
+              "RelativeDocumentMoniker": "UniversityApiBackEnd\\Migrations\\20240214204625_Create Users Table.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\Migrations\\20240214204625_Create Users Table.cs",
+              "RelativeToolTip": "UniversityApiBackEnd\\Migrations\\20240214204625_Create Users Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T20:46:26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
