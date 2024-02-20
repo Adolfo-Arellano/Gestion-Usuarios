@@ -8308,23 +8308,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "F:\\Visual Studio Community SDK\\NuGetPackages": {}
+    "C:\\Users\\floro\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\UniversityApiBackEnd.csproj",
+      "projectUniqueName": "C:\\Users\\floro\\source\\repos\\Gestion-Usuarios\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\UniversityApiBackEnd.csproj",
       "projectName": "UniversityApiBackEnd",
-      "projectPath": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\UniversityApiBackEnd.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\obj\\",
+      "projectPath": "C:\\Users\\floro\\source\\repos\\Gestion-Usuarios\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\UniversityApiBackEnd.csproj",
+      "packagesPath": "C:\\Users\\floro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\floro\\source\\repos\\Gestion-Usuarios\\UniversityApiBackEnd - OpenBootcamp\\UniversityApiBackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "F:\\Visual Studio Community SDK\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\floro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

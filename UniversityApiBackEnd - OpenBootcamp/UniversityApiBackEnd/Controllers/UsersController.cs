@@ -28,7 +28,7 @@ namespace UniversityApiBackEnd.Controllers
             return await _context.Users.ToListAsync();
         }
 
-        // GET: api/Users/5
+        // GET: api/Users/5 https://localhost:7190/api/users/{id}
         [HttpGet("{id}")]
         public async Task<ActionResult<User>> GetUser(int id)
         {
@@ -42,7 +42,7 @@ namespace UniversityApiBackEnd.Controllers
             return user;
         }
 
-        // PUT: api/Users/5
+        // PUT: api/Users/5 https://localhost:7190/api/users/{id}
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
         public async Task<IActionResult> PutUser(int id, User user)
@@ -84,7 +84,7 @@ namespace UniversityApiBackEnd.Controllers
             return CreatedAtAction("GetUser", new { id = user.Id }, user);
         }
 
-        // DELETE: api/Users/5
+        // DELETE: api/Users/5 https://localhost:7190/api/users/{id}
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteUser(int id)
         {
@@ -102,7 +102,7 @@ namespace UniversityApiBackEnd.Controllers
 
         private bool UserExists(int id)
         {
-            return _context.Users.Any(e => e.Id == id);
+            return _context.Users.Any(user => user.Id == id);
         }
     }
 }
